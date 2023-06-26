@@ -23,7 +23,7 @@ Estilos y efectos visuales personalizables en el archivo styles.css.
 ## Autor
 
 - Daniel Steven Rodriguez Verano
-- Sitio web: [El portafolio](https://daniellenoz.github.io/DanielLenoz-portafolio/)
+- Sitio web: [El portafolio](https://daniellenoz.github.io/rabbit_move/)
 - Contacto sugerido: [Linkedin](https://www.linkedin.com/in/daniel-steven-rodriguez-verano-417472241/)
 
 ## Licencia
